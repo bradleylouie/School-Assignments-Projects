@@ -7,4 +7,4 @@
 
   Reads two plaintext files - one containing keywords and the other a large text - constructing a map of the keywords and their occurrences within the text.
   Uses properties of unordered sets, maps, and unordered maps to look up these keywords, their total occurrences, and their occurrences per line in O(1) or O(logN) time.
-  The content of the files are parsed for alphabetical characters only - all others are converted to spaces (e.g. "it's" separates into "it" and "s").
+  The contents of the files are parsed for alphabetical characters only - all others are converted to spaces (e.g. "it's" separates into "it" and "s").
