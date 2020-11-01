@@ -6,5 +6,5 @@
 *KeywordsInFile*
 
   Reads two plaintext files - one containing keywords and the other a large text - constructing maps of the keywords and their occurrences within the text.
-  Uses properties of unordered sets, maps, and unordered maps to look up these keywords, their total occurrences, and their occurrences per line in O(1) or O(logN) time.
+  Uses properties of BSTs and hashtables to look up these keywords, their total occurrences, and their occurrences per line in O(1) or O(logN) time.
   The contents of the files are parsed for alphabetical characters only - all others are converted to spaces (e.g. "it's" separates into "it" and "s").
