@@ -1,7 +1,7 @@
 # School-Assignments-Projects
 *SquareMatrix*
 
-  Very basic class implementing the rule of the Big Five; uses raw pointers and simple arithmetic to make a single vector act as a 2D array
+  Very basic class implementing the rule of the Big Five; uses raw pointers and simple arithmetic to make a single vector act as a 2D array.
   
 *KeywordsInFile*
 
